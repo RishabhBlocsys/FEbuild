@@ -27,8 +27,8 @@
     "static/js/11.59c7f8e2.chunk.js.map": "/static/js/11.59c7f8e2.chunk.js.map",
     "static/js/12.041faceb.chunk.js": "/static/js/12.041faceb.chunk.js",
     "static/js/12.041faceb.chunk.js.map": "/static/js/12.041faceb.chunk.js.map",
-    "main.js": "/static/js/main.ae36b0f5.chunk.js",
-    "main.js.map": "/static/js/main.ae36b0f5.chunk.js.map",
+    "main.js": "/static/js/main.d07d9ab4.chunk.js",
+    "main.js.map": "/static/js/main.d07d9ab4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1e35d4f4.js",
     "runtime-main.js.map": "/static/js/runtime-main.1e35d4f4.js.map",
     "static/js/15.742b5462.chunk.js": "/static/js/15.742b5462.chunk.js",
@@ -150,7 +150,7 @@
     "static/js/3.70a5ffe2.chunk.js.LICENSE.txt": "/static/js/3.70a5ffe2.chunk.js.LICENSE.txt",
     "static/js/41.cdc1ac2d.chunk.js.LICENSE.txt": "/static/js/41.cdc1ac2d.chunk.js.LICENSE.txt",
     "static/js/9.c4490765.chunk.js.LICENSE.txt": "/static/js/9.c4490765.chunk.js.LICENSE.txt",
-    "static/media/1479.gif": "/static/media/1479.cf24ffc4.gif",
+    "static/media/1479.gif": "/static/media/1479.66fd35c5.gif",
     "static/media/Redheart.svg": "/static/media/Redheart.4302720a.svg",
     "static/media/about_main_banner.cb2a8ab7.png": "/static/media/about_main_banner.cb2a8ab7.png",
     "static/media/about_main_banner_mobile.980b5362.png": "/static/media/about_main_banner_mobile.980b5362.png",
@@ -214,6 +214,6 @@
   "entrypoints": [
     "static/js/runtime-main.1e35d4f4.js",
     "static/js/15.742b5462.chunk.js",
-    "static/js/main.ae36b0f5.chunk.js"
+    "static/js/main.d07d9ab4.chunk.js"
   ]
 }
